@@ -19,12 +19,12 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 # Scanners 
 
-- [nmap](https://github.com/nmap/nmap) - the Network Mapper. Github mirror of official SVN repository. https://svn.nmap.org/
-- [masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [dscan](https://github.com/dugsong/dscan) - asynchronous TCP host scanner.
+- [masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+- [nmap](https://github.com/nmap/nmap) - the Network Mapper. Github mirror of official SVN repository. https://svn.nmap.org/
 - [zmap](https://github.com/zmap/zmap) - a fast single packet network scanner designed for Internet-wide network surveys. 
 
 # Nmap Tools
 
-- [Zenmap](https://nmap.org/zenmap/) - the official Nmap Security Scanner GUI. It is a multi-platform (Linux, Windows, Mac OS X, BSD, etc.) free and open source application. 
 - [Sandmap](https://github.com/trimstray/sandmap) - a tool supporting network and system reconnaissance using the massive Nmap engine. It provides a user-friendly interface, automates and speeds up scanning and allows you to easily use many advanced scanning techniques.
+- [Zenmap](https://nmap.org/zenmap/) - the official Nmap Security Scanner GUI. It is a multi-platform (Linux, Windows, Mac OS X, BSD, etc.) free and open source application. 
