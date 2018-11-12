@@ -15,7 +15,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 ## Related Lists
 
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
-- [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Some overlap here for artifact analysis.
 
 # Scanners 
 
