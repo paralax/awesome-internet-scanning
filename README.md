@@ -27,6 +27,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 # DNS Scanners 
 
 - [dns-scanner](https://github.com/avin/dns-scanner) - fast asynchronous NS scanner to locate subdomains.
+- [massdns](https://github.com/blechschmidt/massdns) - high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration).
 
 # Nmap Tools
 
