@@ -20,7 +20,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 # Port Scanners 
 
 - [dscan](https://github.com/dugsong/dscan) - asynchronous TCP host scanner.
-- [goscan](https://github.com/marco-lancini/goscan) - Interactive Network Scanner.
 - [masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [nmap](https://github.com/nmap/nmap) - the Network Mapper. Github mirror of official SVN repository. https://svn.nmap.org/
 - [zmap](https://github.com/zmap/zmap) - a fast single packet network scanner designed for Internet-wide network surveys. 
@@ -32,6 +31,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 # Nmap Tools
 
+- [goscan](https://github.com/marco-lancini/goscan) - Interactive Network Scanner.
 - [LazyMap](https://github.com/commonexploits/port-scan-automation) - Automate NMAP Scans and Generate Custom Nessus Policies Automatically.
 - [nmap-bootstrap-xsl](https://github.com/honze-net/nmap-bootstrap-xsl) - Nmap XSL implementation with Bootstrap.
 - [python-libnmap](https://github.com/savon-noir/python-libnmap) - libnmap is a python library to run nmap scans, parse and diff scan results. It supports python 2.6 up to 3.4. 
