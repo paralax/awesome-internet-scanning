@@ -21,6 +21,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - [dscan](https://github.com/dugsong/dscan) - asynchronous TCP host scanner.
 - [masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+- [netscanner](https://github.com/R4yGM/netscanner) - netscanner - TCP/UDP scanner to find open or closed ports
 - [nmap](https://github.com/nmap/nmap) - the Network Mapper. Github mirror of official SVN repository. https://svn.nmap.org/
 - [zmap](https://github.com/zmap/zmap) - a fast single packet network scanner designed for Internet-wide network surveys. 
 
