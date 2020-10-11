@@ -34,6 +34,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - [goscan](https://github.com/marco-lancini/goscan) - Interactive Network Scanner.
 - [LazyMap](https://github.com/commonexploits/port-scan-automation) - Automate NMAP Scans and Generate Custom Nessus Policies Automatically.
+- [ObsidianSailboat](https://github.com/paralax/ObsidianSailboat) - Nmap and NSE command line wrapper in the style of Metasploit.
 - [nmap-bootstrap-xsl](https://github.com/honze-net/nmap-bootstrap-xsl) - Nmap XSL implementation with Bootstrap.
 - [python-libnmap](https://github.com/savon-noir/python-libnmap) - libnmap is a python library to run nmap scans, parse and diff scan results. It supports python 2.6 up to 3.4. 
 - [Sandmap](https://github.com/trimstray/sandmap) - a tool supporting network and system reconnaissance using the massive Nmap engine. It provides a user-friendly interface, automates and speeds up scanning and allows you to easily use many advanced scanning techniques.
