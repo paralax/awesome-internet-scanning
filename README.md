@@ -34,6 +34,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 # Nmap Tools
 
+- [dscan](https://github.com/0x4E0x650x6F/dscan) - Distributed Nmap, wrapper around Nmap to allow distributed network enumeration.
 - [goscan](https://github.com/marco-lancini/goscan) - Interactive Network Scanner.
 - [LazyMap](https://github.com/commonexploits/port-scan-automation) - Automate NMAP Scans and Generate Custom Nessus Policies Automatically.
 - [ObsidianSailboat](https://github.com/paralax/ObsidianSailboat) - Nmap and NSE command line wrapper in the style of Metasploit.
