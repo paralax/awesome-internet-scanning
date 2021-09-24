@@ -25,6 +25,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - [netscanner](https://github.com/R4yGM/netscanner) - netscanner - TCP/UDP scanner to find open or closed ports
 - [nmap](https://github.com/nmap/nmap) - the Network Mapper. Github mirror of official SVN repository. https://svn.nmap.org/
 - [sx](https://github.com/v-byte-cpu/sx) - Fast, modern, easy-to-use network scanner (ARP/TCP/UDP/SOCKS5, etc.)
+- [xmap](https://github.com/idealeer/xmap) - XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning
 - [zmap](https://github.com/zmap/zmap) - a fast single packet network scanner designed for Internet-wide network surveys. 
 
 # DNS Scanners 
