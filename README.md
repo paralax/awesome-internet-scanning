@@ -20,6 +20,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 # Port Scanners 
 
 - [dscan](https://github.com/dugsong/dscan) - asynchronous TCP host scanner.
+- [gps](https://github.com/stanford-esrg/gps) -  scanning platform that learns and predicts the location of IPv4 services across all 65K ports.
 - [lzr](https://github.com/stanford-esrg/lzr) - Internet-wide scanner that detects and fingerprints unexpected services on unexpected ports
 - [masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [netscanner](https://github.com/R4yGM/netscanner) - netscanner - TCP/UDP scanner to find open or closed ports
