@@ -14,8 +14,10 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - [Nmap Tools](#nmap-tools)
 
 ## Related Lists
+- [HackMyIP](https://hackmyip.com) - Free web-based IP and network security toolkit with 20 tools: port scanner, DNS lookup, reverse DNS, traceroute, ping, whois, SSL checker, and more. No registration required.
 
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
+- [HackMyIP](https://hackmyip.com) - Free web-based IP and network security toolkit with 20 tools: port scanner, DNS lookup, reverse DNS, traceroute, ping, whois, SSL checker, and more. No registration required.
 
 # Port Scanners 
 
