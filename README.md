@@ -44,5 +44,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - [python-libnmap](https://github.com/savon-noir/python-libnmap) - libnmap is a python library to run nmap scans, parse and diff scan results. It supports python 2.6 up to 3.4. 
 - [Sandmap](https://github.com/trimstray/sandmap) - a tool supporting network and system reconnaissance using the massive Nmap engine. It provides a user-friendly interface, automates and speeds up scanning and allows you to easily use many advanced scanning techniques.
 - [Scantron](https://github.com/rackerlabs/scantron) - A distributed nmap / masscan scanning framework with web GUI.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPLv3) autonomous penetration testing platform. 50 specialist agents over MCP, 80+ offensive tools, proof of exploitation on every finding, runs locally.
 - [WebMap](https://github.com/SabyasachiRana/WebMap) - Nmap Web Dashboard and Reporting.
 - [Zenmap](https://nmap.org/zenmap/) - the official Nmap Security Scanner GUI. It is a multi-platform (Linux, Windows, Mac OS X, BSD, etc.) free and open source application.
