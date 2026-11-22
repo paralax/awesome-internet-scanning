@@ -40,6 +40,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - [dscan](https://github.com/0x4E0x650x6F/dscan) - Distributed Nmap, wrapper around Nmap to allow distributed network enumeration.
 - [goscan](https://github.com/marco-lancini/goscan) - Interactive Network Scanner.
 - [LazyMap](https://github.com/commonexploits/port-scan-automation) - Automate NMAP Scans and Generate Custom Nessus Policies Automatically.
+- [libnmap](https://github.com/jas-/node-libnmap) - Node.js module that builds nmap from source and runs scans and host discovery in-process, with JSON or XML reports. No nmap binary needed.
 - [ObsidianSailboat](https://github.com/paralax/ObsidianSailboat) - Nmap and NSE command line wrapper in the style of Metasploit.
 - [nmap-bootstrap-xsl](https://github.com/honze-net/nmap-bootstrap-xsl) - Nmap XSL implementation with Bootstrap.
 - [python-libnmap](https://github.com/savon-noir/python-libnmap) - libnmap is a python library to run nmap scans, parse and diff scan results. It supports python 2.6 up to 3.4. 
